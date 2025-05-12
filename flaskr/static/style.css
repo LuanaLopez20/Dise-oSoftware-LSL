@@ -1,20 +1,20 @@
 html {
   font-family: sans-serif;
-  background: #eee;
+  background: #4b4343;
   padding: 1rem;
 }
 body {
   max-width: 960px;
   margin: 0 auto;
-  background: white;
+  background: rgb(65, 59, 59);
 }
 h1 {
   font-family: serif;
-  color: #377ba8;
+  color: #000000;
   margin: 1rem 0;
 }
 a {
-  color: #377ba8;
+  color: #000000;
 }
 hr {
   border: none;
